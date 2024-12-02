@@ -1,7 +1,7 @@
 # **DomotiX**
 
 ## **Description**  
-DomotiX est un projet de maison intelligente qui utilise l’IoT pour simplifier la vie quotidienne. Il offre des fonctionnalités comme l’ouverture des portes et le contrôle des lumières via une application, la gestion à distance des appareils, la surveillance de sécurité en temps réel avec alertes, et l’automatisation des routines domestiques.
+DomotiX est un projet de maison intelligente utilisant l'IoT pour simplifier la vie quotidienne. Il permet de contrôler à distance des équipements comme les portes, l’éclairage et les appareils électroménagers via une application mobile. Le système assure la sécurité en surveillant la maison en temps réel et en envoyant des alertes en cas d’anomalies. DomotiX automatise également les routines domestiques et optimise la consommation d’énergie, offrant ainsi confort, sécurité et efficacité énergétique.
 
 ## **Objectifs**  
 - **Simplifier la vie quotidienne :** Offrir une gestion intuitive et centralisée des équipements domestiques.  
