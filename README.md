@@ -9,10 +9,10 @@ DomotiX est un projet de maison intelligente utilisant l'IoT pour simplifier la 
 - **Renforcer la sécurité :** Mettre en place des systèmes de surveillance et d'alertes en temps réel.
 
 ## **Architecture du Projet**
-_ **IHM** Développement de l'interface utilisateur pour contrôler les équipements.
-_ **Intégration de composants**	Intégration des appareils connectés (lumières, chauffage, etc.).
-_ **Modèle de sécurité** Mise en place des systèmes de sécurité et de surveillance.
-_ **Communication avec le Cloud**	Gestion de la communication entre les appareils et le cloud.
-_ **Analyse des données utilisateur** Analyse des données pour personnaliser les services de la maison.
+- **IHM** Développement de l'interface utilisateur pour contrôler les équipements.
+- **Intégration de composants**	Intégration des appareils connectés (lumières, chauffage, etc.).
+- **Modèle de sécurité** Mise en place des systèmes de sécurité et de surveillance.
+- **Communication avec le Cloud**	Gestion de la communication entre les appareils et le cloud.
+- **Analyse des données utilisateur** Analyse des données pour personnaliser les services de la maison.
 
 
