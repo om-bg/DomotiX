@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969268858594",
+    "firebase_url": "https://domotix-41318-default-rtdb.firebaseio.com",
+    "project_id": "domotix-41318",
+    "storage_bucket": "domotix-41318.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969268858594:android:76f2f898e6f9332d1158bb",
+        "android_client_info": {
+          "package_name": "com.example.domotix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lPntpheSRpaL36HrC6OnN3ZmHfpl56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
